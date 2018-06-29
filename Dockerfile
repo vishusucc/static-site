@@ -10,4 +10,4 @@ COPY index.html /data/www/index.html
 COPY 404.html /data/www/404.html
 COPY . /data/www
 
-
+EXPOSE 80
